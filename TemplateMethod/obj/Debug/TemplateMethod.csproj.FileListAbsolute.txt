@@ -1,0 +1,7 @@
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Aluno\Source\Repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
